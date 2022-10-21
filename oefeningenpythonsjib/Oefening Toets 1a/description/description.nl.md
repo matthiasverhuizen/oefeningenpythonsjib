@@ -9,9 +9,9 @@ Voorbeelden voor het programma:
 
 De invoer bedraagt: 
 
-* a=5 
-* b=3 
-* x=4
+* a= 5 
+* b= 3 
+* x= 4
 
 De uitvoer van je programma moet onderstaande antwoordzin zijn: 
 
@@ -21,9 +21,9 @@ De uitvoer van je programma moet onderstaande antwoordzin zijn:
 
 Dit zelfde programma zou ook moeten werken voor onderstaande invoer: 
 
-* a=4,25 
-* b=2,5 
-* x=3
+* a= 4.25 
+* b= 2.5 
+* x= 3
 
 En onderstaande uitvoer: 
 
