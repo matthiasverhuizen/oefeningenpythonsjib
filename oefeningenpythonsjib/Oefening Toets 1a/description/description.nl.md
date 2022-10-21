@@ -15,7 +15,7 @@ De invoer bedraagt:
 
 De uitvoer van je programma moet onderstaande antwoordzin zijn: 
 
-* De bijhorende y-waarde bedraagt 23 voor de functie als de x-waarde 4 is.
+* De bijhorende y-waarde bedraagt 23.0 voor de functie als de x-waarde 4 is.
 
 **Voorbeeld 2** 
 
