@@ -1,6 +1,4 @@
-Oefening 1
-
-Programma Substitutie Vergelijking
+Oefening 1: Programma Substitutie Vergelijking
 
 Schrijf een programma waarin je de vergelijking y=ax+b oplost.
 De waarde van a, b en x dien je zelf in te geven wanneer het programma hierom vraagt.
@@ -9,10 +7,10 @@ Gebruik hiervoor gehele getallen.
 
 *Stappen programma:
 
-**Programma stelt de vraag: Geef een waarde op voor a?
-**Programma stelt de vraag: Geef een waarde op voor b?
-**Programma stelt de vraag: Geef een waarde op voor x?
-**Programma antwoord met antwoordzin: De bijhorende y-waarde bedraagt YY voor de functie als de x-waarde XX is.
+Programma stelt de vraag: Geef een waarde op voor a?
+Programma stelt de vraag: Geef een waarde op voor b?
+Programma stelt de vraag: Geef een waarde op voor x?
+Programma antwoord met antwoordzin: De bijhorende y-waarde bedraagt YY voor de functie als de x-waarde XX is.
 
 *Voorbeelden voor het programma:
 
