@@ -6,9 +6,3 @@ python input without prompt: true
 block count: multi
 input block size: 2
 output block size: 1
---------------------------------------------------------------------------------------
-tab name: Antwoord stelling van pythagoras
-python input without prompt: true
-block count: multi
-input block size: 2
-output block size: 1
