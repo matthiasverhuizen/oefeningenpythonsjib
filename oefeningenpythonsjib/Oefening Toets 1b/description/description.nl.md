@@ -10,7 +10,6 @@ De invoer bedraagt:
 
 * x = 3 
 * y = 4 
-* z = 5
 
 De uitvoer van je programma moet onderstaande antwoordzin zijn: 
 
@@ -22,7 +21,6 @@ Dit zelfde programma zou ook moeten werken voor onderstaande invoer:
 
 * x = 40
 * y = 30
-* z = 50
 
 En onderstaande uitvoer: 
 
@@ -36,7 +34,7 @@ Voor het argument van deze functie geef je de variabele of getal in waarvan je d
 
 OPGELET 
 
-Voor deze functie te kunnen gebruiken moet deze geimporteerd worden in replit. Dit doe je door je programma te starten met de onderstaande programmaregel:
+Voor deze functie te kunnen gebruiken moet deze geïmporteerd worden in Replit. Dit doe je door je programma te starten met de onderstaande programmaregel:
 
 * from math import sqrt
 
