@@ -7,13 +7,14 @@ De waarde van a, b en x dien je zelf in te geven wanneer het programma hierom vr
 We zoeken de y coördinaat wanneer x = 4.
 Gebruik hiervoor gehele getallen.
 
-Stappen programma:
+*Stappen programma:
 
 Programma stelt de vraag: Geef een waarde op voor a?
 Programma stelt de vraag: Geef een waarde op voor b?
 Programma stelt de vraag: Geef een waarde op voor x?
+Programma antwoord met antwoordzin: De bijhorende y-waarde bedraagt YY voor de functie als de x-waarde XX is.
 
-Voorbeelden voor het programma:
+*Voorbeelden voor het programma:
 
 Voorbeeld 1
 De invoer bedraagt: 
