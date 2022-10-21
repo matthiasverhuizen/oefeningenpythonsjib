@@ -30,9 +30,11 @@ De lengte van de schuine zijde bedraagt 50 cm.
 
 **TIP**
 
-Voor een wortel te nemen maak je gebruik van de functie : sqrt()
+Voor een wortel te nemen maak je gebruik van de functie : **sqrt()**
 
-Tussen de haken komt het argument waarvan je de wortel wenst te nemen.
+Voor het argument van deze functie geef je de variabele of getal in waarvan je de wortel wenst te nemen.
+
+OPGELET 
 
 Voor deze functie te kunnen gebruiken moet deze geimporteerd worden in replit. Dit doe je door je programma te starten met de onderstaande programmaregel:
 
