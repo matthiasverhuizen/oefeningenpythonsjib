@@ -1,8 +1,8 @@
-De bijhorende y-waarde bedraagt 23 voor de functie als de x-waarde 4 is.
-De bijhorende y-waarde bedraagt 14 voor de functie als de x-waarde 3 is.
+De lengte van de schuine zijde bedraagt 5 cm.
+De lengte van de schuine zijde bedraagt 50 cm.
 --------------------------------------------------------------------------------------
-tab name: Antwoord substitutie
+tab name: Antwoord stelling van pythagoras
 python input without prompt: true
 block count: multi
-input block size: 3
+input block size: 2
 output block size: 1
