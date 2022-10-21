@@ -29,6 +29,7 @@ En onderstaande uitvoer:
 De lengte van de schuine zijde bedraagt 50 cm.
 
 **TIP**
+
 Voor een wortel te nemen maak je gebruik van de functie : sqrt()
 
 Tussen de haken komt het argument waarvan je de wortel wenst te nemen.
