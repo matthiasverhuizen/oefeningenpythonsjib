@@ -1,6 +1,6 @@
 **Programma Stelling Pythagoras**
 
-Schrijf een programma waarin je de stelling van pythagoras oplost. De waarde van x en y (rechthoekszijden) dien je zelf in te geven wanneer het programma hierom vraagt. Vervolgens berekent het programma de z-waarde (schuine zijde). We werken enkel met gehele getallen. 
+Schrijf een programma waarin je de Stelling van Pythagoras oplost. De waarde van x en y (rechthoekszijden) dien je zelf in te geven wanneer het programma hierom vraagt. Vervolgens berekent het programma de z-waarde (schuine zijde). We werken enkel met gehele getallen. 
 
 **Voorbeelden voor het programma:**
 
