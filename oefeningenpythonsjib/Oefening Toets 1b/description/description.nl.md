@@ -14,7 +14,7 @@ De invoer bedraagt:
 
 De uitvoer van je programma moet onderstaande antwoordzin zijn: 
 
-De bijhorende y-waarde bedraagt 23 voor de functie als de x-waarde 4 is.
+De lengte van de schuine zijde bedraagt 5 cm.
 
 Voorbeeld 2 
 
@@ -24,7 +24,9 @@ Dit zelfde programma zou ook moeten werken voor onderstaande invoer:
 * y = 30
 * z = 50
 
-En onderstaande uitvoer: De bijhorende y-waarde bedraagt 14 voor de functie als de x-waarde 3 is.
+En onderstaande uitvoer: 
+
+De lengte van de schuine zijde bedraagt 50 cm.
 
 **TIP**
 Voor een wortel te nemen maak je gebruik van de functie : sqrt()
