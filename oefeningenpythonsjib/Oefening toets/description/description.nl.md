@@ -9,10 +9,10 @@ Gebruik hiervoor gehele getallen.
 
 *Stappen programma:
 
-Programma stelt de vraag: Geef een waarde op voor a?
-Programma stelt de vraag: Geef een waarde op voor b?
-Programma stelt de vraag: Geef een waarde op voor x?
-Programma antwoord met antwoordzin: De bijhorende y-waarde bedraagt YY voor de functie als de x-waarde XX is.
+**Programma stelt de vraag: Geef een waarde op voor a?
+**Programma stelt de vraag: Geef een waarde op voor b?
+**Programma stelt de vraag: Geef een waarde op voor x?
+**Programma antwoord met antwoordzin: De bijhorende y-waarde bedraagt YY voor de functie als de x-waarde XX is.
 
 *Voorbeelden voor het programma:
 
