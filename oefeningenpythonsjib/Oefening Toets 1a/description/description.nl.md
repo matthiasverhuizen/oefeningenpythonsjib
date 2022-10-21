@@ -21,10 +21,10 @@ De uitvoer van je programma moet onderstaande antwoordzin zijn:
 
 Dit zelfde programma zou ook moeten werken voor onderstaande invoer: 
 
-* a=4,5 
+* a=4,25 
 * b=2,5 
 * x=3
 
 En onderstaande uitvoer: 
 
-* De bijhorende y-waarde bedraagt 16 voor de functie als de x-waarde 3 is.
+* De bijhorende y-waarde bedraagt 15.25 voor de functie als de x-waarde 3 is.
