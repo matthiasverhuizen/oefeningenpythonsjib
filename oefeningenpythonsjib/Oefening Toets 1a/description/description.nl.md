@@ -3,7 +3,7 @@
 
 Schrijf een programma waarin je de vergelijking y=ax+b oplost. De waarden van variabelen a, b en x dien je zelf in te geven wanneer het programma hierom vraagt met de vraagzinnen "Geef een waarde op voor a?"(Doe dit ook voor b en x). Het programma berekent vervolgens de bijhorende y-waarde. Het programma dient ook te werken met kommagetallen.
 
-*Voorbeelden voor het programma:
+* Voorbeelden voor het programma:
 
 **Voorbeeld 1** 
 
