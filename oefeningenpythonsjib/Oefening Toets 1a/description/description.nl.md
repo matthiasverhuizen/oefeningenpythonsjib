@@ -1,4 +1,3 @@
-Oefening 1
 
 **Programma Substitutie Vergelijking**
 
