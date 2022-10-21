@@ -1,19 +1,39 @@
-Oefening 1
+**Programma Stelling Pythagoras**
 
-Programma Substitutie Vergelijking
+Schrijf een programma waarin je de stelling van pythagoras oplost. De waarde van x en y (rechthoekszijden) dien je zelf in te geven wanneer het programma hierom vraagt. Vervolgens berekent het programma de z waarde (schuine zijde). We werken enkel met gehele getallen. 
 
-Schrijf een programma waarin je de vergelijking y=ax+b oplost. De waarde van a, b en x dien je zelf in te geven wanneer het programma hierom vraagt. We zoeken de y coördinaat wanneer x = 4. Gebruik hiervoor gehele getallen.
+**Voorbeelden voor het programma:**
 
-*Stappen programma:
+Voorbeeld 1 
 
-**Programma stelt de vraag: Geef een waarde op voor a? **Programma stelt de vraag: Geef een waarde op voor b? **Programma stelt de vraag: Geef een waarde op voor x? **Programma antwoord met antwoordzin: De bijhorende y-waarde bedraagt YY voor de functie als de x-waarde XX is.
+De invoer bedraagt: 
 
-*Voorbeelden voor het programma:
+* x = 3 
+* y = 4 
+* z = 5
 
-Voorbeeld 1 De invoer bedraagt: a=5 b=3 x=4
+De uitvoer van je programma moet onderstaande antwoordzin zijn: 
 
-De uitvoer van je programma moet onderstaande antwoordzin zijn: De bijhorende y-waarde bedraagt 23 voor de functie als de x-waarde 4 is.
+De bijhorende y-waarde bedraagt 23 voor de functie als de x-waarde 4 is.
 
-Voorbeeld 2 Dit zelfde programma zou ook moeten werken voor onderstaande invoer: a=4 b=2 x=3
+Voorbeeld 2 
+
+Dit zelfde programma zou ook moeten werken voor onderstaande invoer:
+
+* x = 40
+* y = 30
+* z = 50
 
 En onderstaande uitvoer: De bijhorende y-waarde bedraagt 14 voor de functie als de x-waarde 3 is.
+
+**TIP**
+Voor een wortel te nemen maak je gebruik van de functie : sqrt()
+
+Tussen de haken komt het argument waarvan je de wortel wenst te nemen.
+
+Voor deze functie te kunnen gebruiken moet deze geimporteerd worden in replit. Dit doe je door je programma te starten met de onderstaande programmaregel:
+
+* from math import sqrt
+
+
+
