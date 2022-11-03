@@ -1,8 +1,13 @@
-De bijhorende y-waarde bedraagt 23 voor de functie als de x-waarde 4 is.
-De bijhorende y-waarde bedraagt 14 voor de functie als de x-waarde 3 is.
+De discriminant D bedraagt 1.
+De eerste nulwaarde bevindt zich op -0.5.
+De tweede nulwaarde bevindt zich op -1.0.
+
+De discriminant D bedraagt 36.
+De eerste nulwaarde bevindt zich op -1.0.
+De tweede nulwaarde bevindt zich op -7.0.
 --------------------------------------------------------------------------------------
 tab name: Antwoord substitutie
 python input without prompt: true
 block count: multi
 input block size: 3
-output block size: 1
+output block size: 3
