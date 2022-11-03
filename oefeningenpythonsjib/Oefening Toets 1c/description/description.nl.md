@@ -52,7 +52,7 @@ Dit zelfde programma zou ook moeten werken voor onderstaande invoer:
 *	b = 8
 *	c = 7
 
-En onderstaande uitvoerzinnen:
+En onderstaande dezelfde antwoordzinnen, enkel de getalwaarde verandert:
 
 De discriminant D bedraagt 36.
 
