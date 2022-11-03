@@ -6,12 +6,13 @@ Een vaak gebruikte methode in de wiskunde is deze van de discriminant. Een tweed
 Deze waarden voor a, b en c dien je zelf in te geven wanneer het programma hierom vraagt. 
 Vervolgens berekent het programma de waarde van de discriminant:
 
-* D = b² - 4ac
+$$D = b² - 4ac$$
 
 Daarna berekent het programma de waarde van de variabelen:
 
-* X1 = (-b-sqrt(D)) / (2a) 
-* X2 = (-b+sqrt(D)) / (2a)
+$$X1 = (-b-sqrt(D)) / (2a)$$
+
+$$X2 = (-b+sqrt(D)) / (2a)$$
 
 sqrt(D) staat hier voor de vierkantswortel van D.
 
