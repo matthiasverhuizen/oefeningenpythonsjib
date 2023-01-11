@@ -1,8 +1,10 @@
-De bijhorende y-waarde bedraagt 23 voor de functie als de x-waarde 4 is.
+13:45
+3:50
+23:59
 De bijhorende y-waarde bedraagt 14 voor de functie als de x-waarde 3 is.
 --------------------------------------------------------------------------------------
-tab name: Antwoord substitutie
+tab name: Antwoord digitale klok
 python input without prompt: true
 block count: multi
-input block size: 3
+input block size: 1
 output block size: 1
