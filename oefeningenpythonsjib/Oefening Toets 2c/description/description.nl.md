@@ -14,6 +14,7 @@ Invoer:
 * 9
 * 7
 * 17
+
 Uitvoer:
 * 18
 * 3
