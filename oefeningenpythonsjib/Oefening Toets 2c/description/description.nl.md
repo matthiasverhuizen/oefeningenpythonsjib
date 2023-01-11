@@ -6,7 +6,7 @@ Leerlingen van **verschillende klassen** zitten dus **nooit samen** op een tande
 
 Schrijf een programma dat:
 * Als eerste resultaat berekend hoeveel tandems er in totaal voor alle klasgroepen gehuurd moeten worden op basis van het aantal ingeschreven leerlingen per klasgroep.(18 in voorbeeld 1)
-* Als tweede resultaat berekend hoeveel leerlingen er alleen op een tandem zitten van alle klasgroepen.(3 in voorbeeld 1)
+* Als tweede resultaat berekend hoeveel leerlingen er alleen op een tandem zitten van alle klasgroepen. (3 in voorbeeld 1)
 
 *Voorbeeld*
 
