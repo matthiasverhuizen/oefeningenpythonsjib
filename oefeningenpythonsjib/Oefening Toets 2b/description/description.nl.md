@@ -4,7 +4,7 @@ Geef in je programma het aantal minuten in als variabele.(tussen 0 en 1440 minut
 
 Het programma zet deze om in uren en minuten in de vorm van een display op een digitale klok. 
 
-Het programma wordt getest met onderstaande invoer waarden.
+Het programma wordt getest met onderstaande invoerwaarden.
 
 * Invoer: 825
 
