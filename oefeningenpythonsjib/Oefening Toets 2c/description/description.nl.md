@@ -10,10 +10,14 @@ Schrijf een programma dat:
 
 *Voorbeeld*
 
-Invoer: 
+Invoer:
+
  9 
+ 
  7 
+ 
  17 
+ 
 
 Uitvoer:
 * 18
