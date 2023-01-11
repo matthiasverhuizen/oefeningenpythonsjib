@@ -1,8 +1,8 @@
 **Oefening 2C: Sportdag Kelchterhoef**
 
 De leerlingen van 4NAW, 4ECW1 en 4ECW2 gaan op sportdag.
-De verplaatsing naar Kelchterhoef doen ze bijgevolg per klasgroep en per **tandem.** 
-Leerlingen van **verschillende klassen** zitten dus **nooit samen** op een tandem.
+De verplaatsing naar Kelchterhoef doen ze per klasgroep en met de **tandem.** 
+Leerlingen van **verschillende klassen** zitten dus **nooit samen** op een tandem. Leerlingen van eenzelfde groep wel.
 
 Schrijf een programma dat:
 Als eerste resultaat berekend hoeveel tandems er in totaal voor alle klasgroepen gehuurd moeten worden op basis van het aantal ingeschreven leerlingen per klasgroep.(18 in voorbeeld 1)
