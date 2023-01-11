@@ -11,9 +11,9 @@ Schrijf een programma dat:
 *Voorbeeld*
 
 Invoer: 
-* 9 
-* 7 
-* 17 
+ 9 
+ 7 
+ 17 
 
 Uitvoer:
 * 18
