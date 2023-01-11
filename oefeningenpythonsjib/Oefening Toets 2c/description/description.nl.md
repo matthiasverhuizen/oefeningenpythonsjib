@@ -1,19 +1,33 @@
-Oefening 1
+**Oefening 2c: Sportdag Kelchterhoef
 
-Programma Substitutie Vergelijking
+De leerlingen van 4NAW, 4ECW1 en 4ECW2 gaan op sportdag.
+De verplaatsing naar Kelchterhoef doen ze bijgevolg per klasgroep en per **tandem.** 
+Leerlingen van **verschillende klassen** zitten dus **nooit samen** op een tandem.
 
-Schrijf een programma waarin je de vergelijking y=ax+b oplost. De waarde van a, b en x dien je zelf in te geven wanneer het programma hierom vraagt. We zoeken de y coördinaat wanneer x = 4. Gebruik hiervoor gehele getallen.
+Schrijf een programma dat:
+Als eerste resultaat berekend hoeveel tandems er in totaal voor alle klasgroepen gehuurd moeten worden op basis van het aantal ingeschreven leerlingen per klasgroep.(18 in voorbeeld 1)
+Als tweede resultaat berekend hoeveel leerlingen er alleen op een tandem zitten van alle klasgroepen.(3 in voorbeeld 1)
 
-*Stappen programma:
+*Voorbeeld*
 
-**Programma stelt de vraag: Geef een waarde op voor a? **Programma stelt de vraag: Geef een waarde op voor b? **Programma stelt de vraag: Geef een waarde op voor x? **Programma antwoord met antwoordzin: De bijhorende y-waarde bedraagt YY voor de functie als de x-waarde XX is.
+Invoer: 
+9
+7
+17
 
-*Voorbeelden voor het programma:
+Uitvoer:
 
-Voorbeeld 1 De invoer bedraagt: a=5 b=3 x=4
+18
+3
 
-De uitvoer van je programma moet onderstaande antwoordzin zijn: De bijhorende y-waarde bedraagt 23 voor de functie als de x-waarde 4 is.
 
-Voorbeeld 2 Dit zelfde programma zou ook moeten werken voor onderstaande invoer: a=4 b=2 x=3
+Invoer:
 
-En onderstaande uitvoer: De bijhorende y-waarde bedraagt 14 voor de functie als de x-waarde 3 is.
+14
+13
+10
+
+Uitvoer:
+
+19
+1
