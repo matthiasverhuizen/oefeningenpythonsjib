@@ -1,4 +1,4 @@
-**Oefening 2c: Sportdag Kelchterhoef**
+**Oefening 2C: Sportdag Kelchterhoef**
 
 De leerlingen van 4NAW, 4ECW1 en 4ECW2 gaan op sportdag.
 De verplaatsing naar Kelchterhoef doen ze bijgevolg per klasgroep en per **tandem.** 
