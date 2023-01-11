@@ -11,23 +11,20 @@ Schrijf een programma dat:
 *Voorbeeld*
 
 Invoer:
-
- 9 
- 
- 7 
- 
- 17 
+$$9$$ 
+$$7$$ 
+$$17$$ 
  
 
 Uitvoer:
-* 18
-* 3
+$$18$$
+$$3$$
 
 Invoer:
-* 14
-* 13
-* 10
+$$14$$
+$$13$$
+$$10$$
 
 Uitvoer:
-* 19
-* 1
+$$19$$
+$$1$$
