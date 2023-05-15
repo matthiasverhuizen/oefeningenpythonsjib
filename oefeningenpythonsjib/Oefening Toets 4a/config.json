@@ -1,0 +1,18 @@
+{
+  "description": {
+    "names": {
+      "nl": "Oefening Toets 2c2"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "access": "public",
+  "internals": {
+    "token": "9_9BsfrANb7aa9bxdgheJ_6PsJADCrP-g2SgiZ4DwjQYFI4gEMe4qx5PK5dEDZce",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
