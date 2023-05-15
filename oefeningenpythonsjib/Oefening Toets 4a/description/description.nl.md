@@ -1,3 +1,29 @@
-**Noteer in één bewerking hoe je met de CLI (Command-Line interface) de 3e machtswortel kan nemen van 9 ?**
+**Oefening 2C: Sportdag Kelchterhoef**
 
-Dien je antwoord in zoals je een programma zou indienen. Aangezien dit geen oefening is geeft Dodona niet aan of je antwoord juist of fout is ook al lijkt dit wel zo.
+De leerlingen van 4NAW, 4ECW1 en 4ECW2 gaan op sportdag.
+De verplaatsing naar Kelchterhoef doen ze per klasgroep en met de **tandem.** 
+Leerlingen van **verschillende klassen** zitten dus **nooit samen** op een tandem. Leerlingen van eenzelfde klasgroep dus wel.
+
+Schrijf een programma dat:
+* Als eerste resultaat berekend hoeveel tandems er in totaal voor alle klasgroepen gehuurd moeten worden op basis van het aantal ingeschreven leerlingen per klasgroep.(18 in voorbeeld 1)
+* Als tweede resultaat berekend hoeveel leerlingen er alleen op een tandem zitten van alle klasgroepen. (3 in voorbeeld 1)
+
+*Voorbeeld*
+
+Invoer:
+* 9
+* 7
+* 17
+
+Uitvoer:
+* 18
+* 3
+
+Invoer:
+* 14
+* 13
+* 10
+
+Uitvoer:
+* 19
+* 1
