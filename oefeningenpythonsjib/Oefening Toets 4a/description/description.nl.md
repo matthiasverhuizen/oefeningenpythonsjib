@@ -1,4 +1,4 @@
-**Oefening 4A Som van een reeks getallen**
+**Oefening 4A Som en verhouding van een reeks getallen**
 
 Schrijf een programma dat het totaal van een onbepaalde reeks getallen systematisch bijhoudt.
 
