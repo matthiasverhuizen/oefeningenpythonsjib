@@ -8,5 +8,4 @@ tab name: Antwoord Reeks getallen
 python input without prompt: true
 block count: multi
 input block size: 1
-output block size: ends with
-comparison: exact match
+output block size: 2
