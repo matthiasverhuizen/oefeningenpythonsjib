@@ -15,11 +15,13 @@ Bepaal hoeveel percent van alle getallen ingegeven getallen zijn.
 Print de berekende waarde op het scherm
 
 Invoer
+
 Zoveel van nul verschillende natuurlijke getallen als gewenst door de gebruiker.
 Als laatste wordt 0 ingevoerd, dit markeert het einde van de reeks.
 Alle waarden worden op een afzonderlijke regel ingevoerd.
 
 Uitvoer
+
 Eén natuurlijk getal –> de som van de even getallen van de ingevoerde reeks van nul verschillende natuurlijke getallen.
 
 
