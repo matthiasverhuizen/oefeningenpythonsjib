@@ -1,29 +1,54 @@
-**Oefening 2C: Sportdag Kelchterhoef**
+**Oefening 4A Som van een reeks getallen**
 
-De leerlingen van 4NAW, 4ECW1 en 4ECW2 gaan op sportdag.
-De verplaatsing naar Kelchterhoef doen ze per klasgroep en met de **tandem.** 
-Leerlingen van **verschillende klassen** zitten dus **nooit samen** op een tandem. Leerlingen van eenzelfde klasgroep dus wel.
+Schrijf een programma dat het totaal van een onbepaalde reeks getallen systematisch bijhoudt.
 
-Schrijf een programma dat:
-* Als eerste resultaat berekend hoeveel tandems er in totaal voor alle klasgroepen gehuurd moeten worden op basis van het aantal ingeschreven leerlingen per klasgroep.(18 in voorbeeld 1)
-* Als tweede resultaat berekend hoeveel leerlingen er alleen op een tandem zitten van alle klasgroepen. (3 in voorbeeld 1)
+Een mogelijke aanpak
+Schrijf een programma dat volgende stappen doorloopt:
+
+Laat de gebruiker zoveel natuurlijke getallen (verschillend van 0) invoeren als hij/zij wil, elk op een afzonderlijke regel.
+Het einde van de reeks wordt gemeld door uiteindelijk wel het cijfer 0 in te voeren.
+
+Bepaal de som van de **Even** getallen in de reeks!
+Print de berekende waarde op het scherm.
+
+Bepaal hoeveel percent van alle getallen ingegeven getallen zijn.
+Print de berekende waarde op het scherm
+
+Invoer
+Zoveel van nul verschillende natuurlijke getallen als gewenst door de gebruiker.
+Als laatste wordt 0 ingevoerd, dit markeert het einde van de reeks.
+Alle waarden worden op een afzonderlijke regel ingevoerd.
+
+Uitvoer
+Eén natuurlijk getal –> de som van de even getallen van de ingevoerde reeks van nul verschillende natuurlijke getallen.
+
 
 *Voorbeeld*
 
 Invoer:
-* 9
-* 7
-* 17
+* 1
+* 2
+* 3
+* 4
+* 5
+* 6
 
 Uitvoer:
-* 18
-* 3
+* 12
+* 50
 
 Invoer:
-* 14
+* 3
+* 6
+* 9
+* 4
+* 2
+* 1
 * 13
-* 10
+* 15
 
 Uitvoer:
-* 19
-* 1
+* 12
+* 0.375
+
+
