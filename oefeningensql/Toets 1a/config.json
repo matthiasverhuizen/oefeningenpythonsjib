@@ -13,5 +13,6 @@
     "example",
     "database"
   ],
-  "type": "exercise"
+  "type": "exercise",
+  "access": "public"
 }
