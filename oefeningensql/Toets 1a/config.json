@@ -6,12 +6,13 @@
     }
   },
   "internals": {
-    "token": "EJ7FwWVeEq7vTWMDtHU5VuxrXwv8GYz2WGX-tZNrmUDjAFScXv74Iee_yffExWQ9",
+    "token": "TKJ32uu5JIViWDtVaIuUkxrq3SbdeDI2VTIxubhvRgapBwMjcJIAYZ_KZ4_4SH_n",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "labels": [
     "example",
     "database"
   ],
-  "type": "exercise"
+  "type": "exercise",
+  "access": "public"
 }
