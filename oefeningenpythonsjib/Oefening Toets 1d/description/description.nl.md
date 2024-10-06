@@ -1,12 +1,14 @@
-Programma omtrek rechthoek
+**Programma omtrek rechthoek**
 
 Schrijf een programma waarmee je de omtrek van een rechthoek berekent. 
 
-*Stappen programma:
+* Stappen programma:
 
-**Programma stelt de vraag: Geef een waarde op voor de basis b?  **Programma stelt de vraag: Geef een waarde op voor de hoogte h? **Programma antwoord met de omtrek.
+**Programma stelt de vraag: Geef een waarde op voor de basis b?  
+**Programma stelt de vraag: Geef een waarde op voor de hoogte h? 
+**Programma antwoord met de omtrek.
 
-*Voorbeelden voor het programma:
+* Voorbeelden voor het programma:
 
 Voorbeeld 1 De invoer bedraagt: b=3 h=4
 
