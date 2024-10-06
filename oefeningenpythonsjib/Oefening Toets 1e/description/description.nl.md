@@ -4,7 +4,8 @@ Schrijf een programma waarmee je de omtrek van een vierkant berekent.
 
 * Stappen programma:
 
-Programma stelt de vraag: Geef een waarde op voor de zijde z?  
+Programma stelt de vraag: Geef een waarde op voor de zijde z? 
+Programma geeft de omtrek.
 
 * Voorbeelden voor het programma:
 
