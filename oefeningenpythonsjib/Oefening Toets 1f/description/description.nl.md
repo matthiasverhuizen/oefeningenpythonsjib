@@ -2,7 +2,7 @@
 
 Schrijf een programma waarmee je ontbrekende hoek van een driehoek berekent. 
 
-*Stappen programma:
+* Stappen programma:
 
 Programma stelt de vraag: Geef een waarde op voor de eerste hoek van de driehoek a? 
 Programma stelt de vraag: Geef een waarde op voor de tweede hoek van de driehoek b?  
