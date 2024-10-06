@@ -2,11 +2,11 @@ Programma omtrek vierkant
 
 Schrijf een programma waarmee je de omtrek van een vierkant berekent. 
 
-*Stappen programma:
+* Stappen programma:
 
-**Programma stelt de vraag: Geef een waarde op voor de zijde z?  
+Programma stelt de vraag: Geef een waarde op voor de zijde z?  
 
-*Voorbeelden voor het programma:
+* Voorbeelden voor het programma:
 
 Voorbeeld 1 De invoer bedraagt: z=3
 
