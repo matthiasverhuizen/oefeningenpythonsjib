@@ -1,4 +1,4 @@
-**Programma berekening resthoek driehoek
+**Programma berekening resthoek driehoek**
 
 Schrijf een programma waarmee je ontbrekende hoek van een driehoek berekent. 
 
