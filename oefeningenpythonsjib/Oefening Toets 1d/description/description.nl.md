@@ -4,9 +4,9 @@ Schrijf een programma waarmee je de omtrek van een rechthoek berekent.
 
 * Stappen programma:
 
-**Programma stelt de vraag: Geef een waarde op voor de basis b?  
-**Programma stelt de vraag: Geef een waarde op voor de hoogte h? 
-**Programma antwoord met de omtrek.
+Programma stelt de vraag: Geef een waarde op voor de basis b?  
+Programma stelt de vraag: Geef een waarde op voor de hoogte h? 
+Programma antwoord met de omtrek.
 
 * Voorbeelden voor het programma:
 
