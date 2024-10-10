@@ -1,15 +1,13 @@
 {
   "description": {
     "names": {
-      "nl": "Dubbel getal"
+      "nl": "Dubbel getal in een zin"
     }
   },
   "evaluation": {
     "pythia_judge": "output"
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "access": "public",
   "internals": {
     "token": "kU_SZcJiBkKehbiA-b6hBYb9g_A-di_vM4WczRkNqtdjgNN5urRpkW9rDqWQtv2j",
