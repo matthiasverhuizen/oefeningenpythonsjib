@@ -1,5 +1,15 @@
 evaluatie:
-  oefening: "Bereken het Product van Twee Getallen"
+  oefening: "Product"
+  description:
+    names:
+      en: "product"
+      nl: "product"
+  evaluation:
+    handler: "tested"
+    test_suite: "suite.yaml"
+  programming_language: "python"
+  access: "private"
+
   evaluatiecriteria:
     - functionele_correctheid:
         beschrijving: "De code moet het product van de twee getallen correct berekenen."
@@ -24,10 +34,6 @@ evaluatie:
     - feedback:
         beschrijving: "Geef constructieve feedback over sterke en zwakke punten."
         resultaat: "Bespreek problemen en bied oplossingen aan."
-
-  conclusie:
-    beschrijving: "De evaluatie biedt een gestructureerde benadering voor het beoordelen van de code."
-    resultaat: "Focus op functionele correctheid, codekwaliteit, documentatie en foutafhandeling."
 
   testresultaten:
     - test_geval:
