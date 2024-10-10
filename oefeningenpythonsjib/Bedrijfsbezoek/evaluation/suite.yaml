@@ -1,4 +1,6 @@
-- tab: "totaal"
+- tab: "print"
   testcases:
     - expression: "print(20+7+15)"
       return: 42
+    - expression: "print(2)"
+      return: 2
