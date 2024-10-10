@@ -1,91 +1,91 @@
 evaluatie:
-  oefening: "Product"
-  description:
-    names:
-      en: "product"
-      nl: "product"
-  evaluation:
-    handler: "tested"
-    test_suite: "suite.yaml"
-  programming_language: "python"
-  access: "private"
+  - oefening: "Product"
+    description:
+      names:
+        en: "product"
+        nl: "product"
+    evaluation:
+      handler: "tested"
+      test_suite: "suite.yaml"
+    programming_language: "python"
+    access: "private"
 
-  evaluatiecriteria:
-    - functionele_correctheid:
-        beschrijving: "De code moet het product van de twee getallen correct berekenen."
-        resultaat: "Alle testgevallen moeten succesvol worden uitgevoerd met de verwachte uitkomsten."
-    - code_kwaliteit:
-        beschrijving: "De code moet goed leesbaar zijn met duidelijke en consistente naamgeving."
-        resultaat: "Correcte indentatie en logische structuur."
-    - documentatie:
-        beschrijving: "De code moet duidelijke commentaren en een docstring bevatten."
-        resultaat: "Documentatie moet de functionaliteit van de variabelen uitleggen."
-    - foutafhandeling:
-        beschrijving: "De code moet robuust zijn en juiste foutmeldingen genereren."
-        resultaat: "Goede omgang met randgevallen zoals nul of negatieve getallen."
+    evaluatiecriteria:
+      - functionele_correctheid:
+          beschrijving: "De code moet het product van de twee getallen correct berekenen."
+          resultaat: "Alle testgevallen moeten succesvol worden uitgevoerd met de verwachte uitkomsten."
+      - code_kwaliteit:
+          beschrijving: "De code moet goed leesbaar zijn met duidelijke en consistente naamgeving."
+          resultaat: "Correcte indentatie en logische structuur."
+      - documentatie:
+          beschrijving: "De code moet duidelijke commentaren en een docstring bevatten."
+          resultaat: "Documentatie moet de functionaliteit van de variabelen uitleggen."
+      - foutafhandeling:
+          beschrijving: "De code moet robuust zijn en juiste foutmeldingen genereren."
+          resultaat: "Goede omgang met randgevallen zoals nul of negatieve getallen."
 
-  evaluatieproces:
-    - testuitvoering:
-        beschrijving: "Voer alle testgevallen uit zoals gedefinieerd in het testplan."
-        resultaat: "Documenteer resultaten, inclusief eventuele foutmeldingen."
-    - code_review:
-        beschrijving: "Voer een peer review uit van de geschreven code."
-        resultaat: "Beoordeel de documentatie op volledigheid."
-    - feedback:
-        beschrijving: "Geef constructieve feedback over sterke en zwakke punten."
-        resultaat: "Bespreek problemen en bied oplossingen aan."
+    evaluatieproces:
+      - testuitvoering:
+          beschrijving: "Voer alle testgevallen uit zoals gedefinieerd in het testplan."
+          resultaat: "Documenteer resultaten, inclusief eventuele foutmeldingen."
+      - code_review:
+          beschrijving: "Voer een peer review uit van de geschreven code."
+          resultaat: "Beoordeel de documentatie op volledigheid."
+      - feedback:
+          beschrijving: "Geef constructieve feedback over sterke en zwakke punten."
+          resultaat: "Bespreek problemen en bied oplossingen aan."
 
-  testresultaten:
-    - test_geval:
-        naam: "Geval 1"
-        invoer:
-          - getal_1: 8
-          - getal_2: 15
-        verwachte_uitvoer: 120
-        werkelijkheid: 120
-        opmerking: "Succesvol"
+    testresultaten:
+      - test_geval:
+          naam: "Geval 1"
+          invoer:
+            - getal_1: 8
+            - getal_2: 15
+          verwachte_uitvoer: 120
+          werkelijkheid: 120
+          opmerking: "Succesvol"
 
-    - test_geval:
-        naam: "Geval 2"
-        invoer:
-          - getal_1: 0
-          - getal_2: 15
-        verwachte_uitvoer: 0
-        werkelijkheid: 0
-        opmerking: "Succesvol"
+      - test_geval:
+          naam: "Geval 2"
+          invoer:
+            - getal_1: 0
+            - getal_2: 15
+          verwachte_uitvoer: 0
+          werkelijkheid: 0
+          opmerking: "Succesvol"
 
-    - test_geval:
-        naam: "Geval 3"
-        invoer:
-          - getal_1: -8
-          - getal_2: 15
-        verwachte_uitvoer: -120
-        werkelijkheid: -120
-        opmerking: "Succesvol"
+      - test_geval:
+          naam: "Geval 3"
+          invoer:
+            - getal_1: -8
+            - getal_2: 15
+          verwachte_uitvoer: -120
+          werkelijkheid: -120
+          opmerking: "Succesvol"
 
-    - test_geval:
-        naam: "Geval 4"
-        invoer:
-          - getal_1: -8
-          - getal_2: -15
-        verwachte_uitvoer: 120
-        werkelijkheid: 120
-        opmerking: "Succesvol"
+      - test_geval:
+          naam: "Geval 4"
+          invoer:
+            - getal_1: -8
+            - getal_2: -15
+          verwachte_uitvoer: 120
+          werkelijkheid: 120
+          opmerking: "Succesvol"
 
-    - test_geval:
-        naam: "Geval 5"
-        invoer:
-          - getal_1: "8"
-          - getal_2: 15
-        verwachte_uitvoer: "TypeError"
-        werkelijkheid: "TypeError"
-        opmerking: "Succesvol"
+      - test_geval:
+          naam: "Geval 5"
+          invoer:
+            - getal_1: "8"
+            - getal_2: 15
+          verwachte_uitvoer: "TypeError"
+          werkelijkheid: "TypeError"
+          opmerking: "Succesvol"
 
-    - test_geval:
-        naam: "Geval 6"
-        invoer:
-          - getal_1: 8.5
-          - getal_2: 15
-        verwachte_uitvoer: 127.5
-        werkelijkheid: 127.5
-        opmerking: "Succesvol"
+      - test_geval:
+          naam: "Geval 6"
+          invoer:
+            - getal_1: 8.5
+            - getal_2: 15
+          verwachte_uitvoer: 127.5
+          werkelijkheid: 127.5
+          opmerking: "Succesvol"
