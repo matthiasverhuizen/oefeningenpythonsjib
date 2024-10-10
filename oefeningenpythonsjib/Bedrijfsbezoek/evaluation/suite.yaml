@@ -1,4 +1,4 @@
 - tab: "print"
   testcases:
     - expression: "print(20+7+15)"
-      stdout: "42"
+      return: 42
