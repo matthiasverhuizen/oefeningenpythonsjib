@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "nl": "Product"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [],
+  "access": "public",
+  "internals": {
+    "token": "HVAGG8-vbai6TPX6rGuhswp7AM2SgjdaZQS2VgdIVSsefQkqKhsKjcARgVN7J2HG",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
