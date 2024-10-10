@@ -1,0 +1,1 @@
+De leerlingen van 4BEW1 en 4BEW2 gaan samen met 4BTW op bedrijfsbezoek. In 4BEW1 zitten 20 leerlingen, in 4BEW2 7 en in 4 BTW 15. Laat het programma het totaal aantal leerlingen tonen dat op bedrijfsbezoek gaat.
