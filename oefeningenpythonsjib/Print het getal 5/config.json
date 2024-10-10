@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "nl": "Print het getal 5"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [],
+  "access": "public",
+  "internals": {
+    "token": "VmJdIJerPMFkThDHZcjiCBpKJqHKwuPWPgINvDYiQQ4m3M7_wHycJG7K3EBVj9Rq",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
