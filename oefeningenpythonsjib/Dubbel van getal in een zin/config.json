@@ -1,0 +1,18 @@
+{
+  "description": {
+    "names": {
+      "nl": "Dubbel getal"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "access": "public",
+  "internals": {
+    "token": "kU_SZcJiBkKehbiA-b6hBYb9g_A-di_vM4WczRkNqtdjgNN5urRpkW9rDqWQtv2j",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
