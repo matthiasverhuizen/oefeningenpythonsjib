@@ -1,16 +1,14 @@
 {
   "description": {
     "names": {
+      "en": "Bedrijfsbezoek",
       "nl": "Bedrijfsbezoek"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "tested",
+    "test_suite": "suite.yaml"
   },
-  "labels": [],
-  "access": "public",
-  "internals": {
-    "token": "HVAGG8-vbai6TPX6rGuhswp7AM2SgjdaZQS2VgdIVSsefQkqKhsKjcARgVN7J2HG",
-    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-  }
+  "programming_language": "python",
+  "access": "private"
 }
