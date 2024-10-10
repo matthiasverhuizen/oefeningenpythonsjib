@@ -1,1 +1,0 @@
-Maak een variabele genaamd getal_1 met waarde 8 en een andere variabele genaamd getal_2 met waarde 15. Bereken het product van deze twee getallen en sla dit op in een variabele genaamd product. Zorg er ten slotte voor dat product weergegeven wordt.
