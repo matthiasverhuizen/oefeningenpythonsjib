@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "nl": "Machten 3"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [],
+  "access": "public",
+  "internals": {
+    "token": "ayYf_qWaG_zNZ7Ki2fFZixtr9YhjGYQXKYtnPaAmf4m2zcB6VwEnJpCdQdiFZHuA",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
