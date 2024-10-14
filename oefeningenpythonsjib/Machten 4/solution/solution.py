@@ -1,3 +1,3 @@
 getal = int(input("Geef een getal?"))
-vierdemachtswortel = getal ** (13)
+vierdemachtswortel = getal ** (0.25)
 print(vierdemachtswortel)

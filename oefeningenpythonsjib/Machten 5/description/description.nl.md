@@ -1,4 +1,4 @@
-Geef de code die de som van kwadraten twee getallen berekent en weergeeft. 
+Geef de code die de som van de kwadraten van twee getallen berekent en weergeeft. 
 
 Voorbeeld:
 
