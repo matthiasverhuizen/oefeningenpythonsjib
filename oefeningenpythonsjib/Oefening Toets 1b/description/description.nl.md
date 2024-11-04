@@ -11,9 +11,9 @@ De invoer bedraagt:
 * x = 3 
 * y = 4 
 
-De uitvoer van je programma moet onderstaande antwoordzin zijn: 
+De uitvoer van je programma bedraagt: 
 
-De lengte van de schuine zijde bedraagt 5 cm.
+5
 
 Voorbeeld 2 
 
@@ -24,7 +24,7 @@ Dit zelfde programma zou ook moeten werken voor onderstaande invoer:
 
 En onderstaande uitvoer: 
 
-De lengte van de schuine zijde bedraagt 50 cm.
+50
 
 **TIP**
 
