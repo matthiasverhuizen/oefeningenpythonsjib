@@ -1,15 +1,13 @@
 {
   "description": {
     "names": {
-      "nl": "Oefening Toets 2a3"
+      "nl": "Oefening Toets 2a"
     }
   },
   "evaluation": {
     "pythia_judge": "output"
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "access": "public",
   "internals": {
     "token": "5d3SfSrmQYPcq22UcbDm7wF6_ZPMyDhWu3UGrMQeNU4AXP4bFZA--fCE5Vp7Qj7z",
