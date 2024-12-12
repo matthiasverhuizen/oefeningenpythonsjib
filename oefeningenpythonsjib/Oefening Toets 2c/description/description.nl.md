@@ -1,7 +1,7 @@
 **Oefening 2C: Sportdag Kelchterhoef**
 
-De leerlingen van 4NAW, 4ECW1 en 4ECW2 gaan op sportdag.
-De verplaatsing naar Kelchterhoef doen ze per klasgroep en met de **tandem.** 
+De leerlingen van 4BEW1, 4BEW2 en 4ECW1 gaan op sportdag.
+De verplaatsing naar Kelchterhoef doen ze per klasgroep en met de **tandem.**(Een fiets waar je met twee personen op zit.) 
 Leerlingen van **verschillende klassen** zitten dus **nooit samen** op een tandem. Leerlingen van eenzelfde klasgroep dus wel.
 
 Schrijf een programma dat:
@@ -11,13 +11,15 @@ Schrijf een programma dat:
 *Voorbeeld*
 
 Invoer:
-* 9
-* 7
-* 17
+* 9 (leerlingen in 4BEW1)
+* 7 (leerlingen in 4BEW2)
+* 17 (leerlingen in 4ECW1)
 
 Uitvoer:
-* 18
-* 3
+* 18 (totaal te huren tandems)
+* 3 (totaal aantal leerlingen alleen op een tandem)
+
+*Voorbeeld met andere leerlingaantallen*
 
 Invoer:
 * 14
