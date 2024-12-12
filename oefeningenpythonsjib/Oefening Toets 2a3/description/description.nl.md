@@ -15,7 +15,7 @@ Je programma wordt getest met beide invoer reeksen.
 
 **Voorbeeld**
 
-* Invoer: 11235$$1$$132$$8$$
+* Invoer: 11235**1**132**8**
 
 * Uitvoer: 1123581321
 
