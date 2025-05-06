@@ -3,3 +3,6 @@
       - testcases:
             - stdin: "50"
               stdout: "1\n8\n27\n"
+      - testcases:
+            - stdin: "2500"
+              stdout: "1\n8\n27\n64\n125\n216\n343\n512\n729\n1000\n1331\n1728\n2197"
