@@ -11,7 +11,7 @@ Uitvoer:
 * 8
 * 27
 
-Ja want 1<sup>3 is 3 en $2^3$ is 8 en $3^3$ is 27 maar $4^3$ is 64. 
+Ja want 1<sup>3</sup> is 3 en 2<sup>3</sup> is 8 en 3<sup>3</sup> is 27 maar 4<sup>3</sup> is 64. 
 
 Invoer:
 * 2500
