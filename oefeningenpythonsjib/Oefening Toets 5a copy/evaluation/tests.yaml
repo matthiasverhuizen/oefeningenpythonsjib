@@ -1,0 +1,5 @@
+- tab: Feedback
+  contexts:
+    - testcases:
+        - stdin: "2000\n2"
+          stdout: "1\n8\n27\n"
