@@ -5,6 +5,6 @@ interest = int(input("Voer de jaarlijkse interest in: "))
 # Bereken het bedrag op de rekening na elk jaar
 jaar = 0
 while basis < 2500:
-    basis = basis(100 + interest) / 100
+    basis = basis * (100 + interest) / 100
     jaar = jaar + 1
     print(jaar, round(basis))
