@@ -3,7 +3,7 @@ Schrijf een programma dat op het scherm in stijgende volgorde de derde machten v
 
 ### Bv:
 * Het natuurlijk getal N is 50.
-* 1<sup>3</sup> = 3 en 2<sup>3</sup> = 8 en 3<sup>3</sup> = 27 maar 4<sup>3</sup> = 64. 
+* 1<sup>3</sup> = 1 en 2<sup>3</sup> = 8 en 3<sup>3</sup> = 27 maar 4<sup>3</sup> = 64. 
 * Het getal 27 wordt wel nog getoond, maar het getal 64 is groter als 50 en wordt bijgevolg niet meer getoond.
 
 #### Voorbeelden
