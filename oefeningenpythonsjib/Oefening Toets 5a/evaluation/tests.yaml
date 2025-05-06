@@ -2,4 +2,4 @@
   contexts:
       - testcases:
             - stdin: "50"
-              stdout: "1 8 27"
+              stdout: "1\n8\n27\n"
