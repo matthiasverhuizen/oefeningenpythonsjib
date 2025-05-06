@@ -1,6 +1,11 @@
 ## Oefening 5A
-Schrijf een programma dat op het scherm in stijgende volgorde de derde machten van alle natuurlijke getallen toont kleiner dan een natuurlijk getal N.
+Schrijf een programma dat op het scherm in stijgende volgorde de derde machten van alle natuurlijke getallen toont.
 
+###
+Bijvoorbeeld:
+Het natuurlijk getal N is 50.
+1<sup>3</sup> = 3 en 2<sup>3</sup> = 8 en 3<sup>3</sup> = 27 maar 4<sup>3</sup> = 64. 
+Het getal 27 wordt wel nog getoond, maar het getal 64 is groter als 50 en wordt bijgevolg niet meer getoond.
 
 #### Voorbeelden
 
@@ -15,7 +20,7 @@ Uitvoer
 27
 ```
 
-Ja want 1<sup>3</sup> = 3 en 2<sup>3</sup> = 8 en 3<sup>3</sup> = 27 maar 4<sup>3</sup> = 64.
+Want 1<sup>3</sup> = 3 en 2<sup>3</sup> = 8 en 3<sup>3</sup> = 27 maar 4<sup>3</sup> = 64.
  
 
 Invoer 
