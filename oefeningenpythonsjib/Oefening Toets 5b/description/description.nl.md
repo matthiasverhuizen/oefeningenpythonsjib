@@ -4,8 +4,8 @@ Jeroen heeft heel wat gewerkt tijdens de vakanties en weekends en besluit de 200
 #### Gevraagd
 
 Schrijf een programma dat berekent hoeveel jaar het duurt vooraleer hij 2500 euro heeft. 
-* Het programma moet ook werken voor andere waarden, het programma vraagt achter het gespaarde bedrag. 
-* Het programma vraagt ook achter de samengestelde interestvoet
+* Het programma moet ook werken voor een ander basisbedrag dan 2000 euro, het programma vraagt achter het basisbedrag.(gespaarde bedrag) 
+* Het programma vraagt ook achter de samengestelde interestvoet.
 
 #### Voorbeeld
 Stel dat Jeroen € 2000 op zijn spaarboekje stort. Hij spaart aan een samengestelde interestvoet van 2 % op jaarbasis. Dan heeft hij elk jaar meer geld op zijn rekening:
@@ -27,4 +27,8 @@ Stel dat Jeroen € 2000 op zijn spaarboekje stort. Hij spaart aan een samengest
 Na het 1e jaar heeft hij dus 2040 euro op zijn rekening.
 Na het 2e jaar 2080 ...
 
+{: .callout.callout-info}
+> #### Tip
+> Als je kommagetallen wil omzetten in gehele getallen gebruik je de functie **round()**. 
 
+Bv round(5.3) = 5
