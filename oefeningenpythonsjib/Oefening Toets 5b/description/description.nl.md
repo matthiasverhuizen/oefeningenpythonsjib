@@ -12,16 +12,16 @@ Stel dat Jeroen € 2000 op zijn spaarboekje stort. Hij spaart aan een samengest
 
 ```
 1 2040
-2 2080
+2 2081
 3 2122
-4 2164
+4 2165
 5 2208
 6 2252
 7 2297
 8 2343
 9 2390
-10 2437
-11 2486
+10 2438
+11 2487
 12 2536
 ```
 Na het 1e jaar heeft hij dus 2040 euro op zijn rekening.
@@ -29,10 +29,10 @@ Na het 2e jaar 2080 ...
 
 {: .callout.callout-info}
 > #### Tip
-> De formule is om het totale bedrag jaarlijkst te berekenen: 
+> De formule om het totale bedrag jaarlijks te berekenen: 
 * basisbedrag = basisbedrag x (100 + interest)/100 
 
-
+* 2000 x (100 + 2)/100 = 1500 x 1.02 = 2040
 
 {: .callout.callout-info}
 > #### Tip
