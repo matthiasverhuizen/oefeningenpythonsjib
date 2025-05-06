@@ -1,14 +1,14 @@
 {
-  "description": {
-    "names": {
-      "nl": "Oefening Toets 5a"
+  {
+    "name": "Oefening Toets 5a",
+    "type": "io",
+    "programming_language": "python",
+    "judge": "pythia",
+    "evaluation": {
+      "policy": "evaluation.py"
     }
-  },
-  "evaluation": {
-    "handler": "tested",
-    "test_suite": "suite.yaml"
-  },
-  "labels": [],
+  }
+  
   "access": "public",
   "internals": {
     "token": "34hEj2FjyaBUa74piVs3rpi5kWzqdBTNfypQJ-hFKS94bACwfe8h3HVbVrJQm-VK",
