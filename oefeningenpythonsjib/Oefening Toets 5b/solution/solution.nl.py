@@ -6,5 +6,5 @@ interest = int(input("Voer de jaarlijkse interest in: "))
 jaar = 0
 while bedrag < 2500:
     bedrag *= (100 + interest) / 100
-    print(jaar, round(bedrag))
     jaar = jaar + 1
+    print(jaar, round(bedrag))
