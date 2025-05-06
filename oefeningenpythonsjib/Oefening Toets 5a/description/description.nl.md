@@ -1,4 +1,4 @@
-## Oefening Toets 5B
+## Oefening Toets 5a
 Schrijf een programma dat op het scherm in stijgende volgorde de derde machten van alle natuurlijke getallen toont. Het programma stopt als deze groter is als een ander zelf in te voeren natuurlijk getal N.
 
 ### Bv:
