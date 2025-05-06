@@ -1,6 +1,6 @@
 {
     "evaluation": {
-        "handler": "python"
+        "handler": "tested"
     },
     "programming_language": "python"
 }
