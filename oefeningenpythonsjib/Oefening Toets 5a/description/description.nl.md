@@ -4,7 +4,11 @@ Schrijf een programma dat op het scherm in stijgende volgorde de derde machten v
 
 #### Voorbeelden
 
-Invoer `50`
+Invoer 
+```
+50
+```
+Uitvoer
 ```
 1
 8
@@ -14,7 +18,10 @@ Invoer `50`
 Ja want 1<sup>3</sup> = 3 en 2<sup>3</sup> = 8 en 3<sup>3</sup> = 27 maar 4<sup>3</sup> = 64.
  
 
-Invoer `2500`
+Invoer 
+```
+2500
+```
 
 Uitvoer:
 ```
