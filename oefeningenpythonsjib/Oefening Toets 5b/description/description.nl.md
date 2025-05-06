@@ -3,7 +3,7 @@ Jeroen heeft heel wat gewerkt tijdens de vakanties en weekends en besluit de 200
 
 #### Gevraagd
 
-Schrijf een programma dat berekent hoeveel jaar het duurt vooraleer hij 2500 euro heeft. 
+Schrijf een programma dat berekent hoeveel jaar het duurt vooraleer hij 2500 euro heeft. Het programma geeft het jaar weer en het gespaarde bedrag dat jaar. 
 * Het programma vraagt achter het basisbedrag.(gespaarde bedrag) 
 * Het programma vraagt ook achter de samengestelde interestvoet.
 
