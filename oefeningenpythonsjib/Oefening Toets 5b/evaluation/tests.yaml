@@ -2,4 +2,4 @@
   contexts:
     - testcases:
         - stdin: "2000\n2"
-          stdout: "1\n8\n27\n"
+          stdout: "0 2040\n1 2081\n2 2122\n3 2165\n4 2208\n5 2252\n6 2297\n7 2343\n8 2390\n9 2438\n10 2487\n11 2536"
