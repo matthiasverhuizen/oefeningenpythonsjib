@@ -25,7 +25,7 @@ Stel dat Jeroen € 2000 op zijn spaarboekje stort. Hij spaart aan een samengest
 12 2536
 ```
 Na het 1e jaar heeft hij dus 2040 euro op zijn rekening.
-Na het 2e jaar 2080 ...
+Na het 2e jaar 2081 ...
 
 {: .callout.callout-info}
 > #### Tip
