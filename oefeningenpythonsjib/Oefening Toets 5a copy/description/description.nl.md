@@ -1,24 +1,30 @@
 ## Oefening Toets 5b
-Jeroen heeft heel wat gewerkt tijdens de vakanties en vele weekenden en besluit de 2000 euro die hij verdiende op zijn spaarboekje te plaatsen. Hij wil berekenen hoelang het duurt vooraleer hij 2500 euro op zijn rekening heeft aan een samengestelde intrestvoet van 2%.
+Jeroen heeft heel wat gewerkt tijdens de vakanties en weekends en besluit de 2000 euro die hij verdiende op zijn spaarboekje te plaatsen. Hij wil berekenen hoelang het duurt vooraleer hij 2500 euro op zijn rekening heeft aan een samengestelde interestvoet van 2%.
 
+#### Gevraagd
+
+Schrijf een programma dat berekent hoeveel jaar het duurt vooraleer hij 2500 euro heeft. 
+* Het programma moet ook werken voor andere waarden, het programma vraagt achter het gespaarde bedrag. 
+* Het programma vraagt ook achter de samengestelde interestvoet
 
 #### Voorbeeld
-Stel dat Jeroen € 2000 op zijn spaarboekje stort. Hij spaart aan een samengestelde interestvoet van 2 % op jaarbasis. Dan verschijnt er:
+Stel dat Jeroen € 2000 op zijn spaarboekje stort. Hij spaart aan een samengestelde interestvoet van 2 % op jaarbasis. Dan heeft hij elk jaar meer geld op zijn rekening:
 
 ```
-2040
-2080
-2122
-2164
-2208
-2252
-2297
-2343
-2390
-2437
-2486
-2536
+1 2040
+2 2080
+3 2122
+4 2164
+5 2208
+6 2252
+7 2297
+8 2343
+9 2390
+10 2437
+11 2486
+12 2536
 ```
-
+Na het 1e jaar heeft hij dus 2040 euro op zijn rekening.
+Na het 2e jaar 2080 ...
 
 
