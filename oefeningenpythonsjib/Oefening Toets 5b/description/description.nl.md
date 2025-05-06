@@ -29,6 +29,13 @@ Na het 2e jaar 2080 ...
 
 {: .callout.callout-info}
 > #### Tip
+> De formule is om het totale bedrag jaarlijkst te berekenen: 
+* basisbedrag = basisbedrag x (100 + interest)/100 
+
+
+
+{: .callout.callout-info}
+> #### Tip
 > Als je kommagetallen wil omzetten in gehele getallen gebruik je de functie **round()**. 
 
 Bv round(5.3) = 5
