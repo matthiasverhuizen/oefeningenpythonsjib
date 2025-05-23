@@ -32,7 +32,7 @@ Na het 2e jaar 2081 ...
 > De formule om het totale bedrag jaarlijks te berekenen: 
 * basisbedrag = basisbedrag x (100 + interest)/100 
 
-* 2000 x (100 + 2)/100 = 1500 x 1.02 = 2040
+* 2000 x (100 + 2)/100 = 2000 x 1.02 = 2040
 
 {: .callout.callout-info}
 > #### Tip
