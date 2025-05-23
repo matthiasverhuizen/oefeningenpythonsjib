@@ -19,7 +19,7 @@ Uitvoer
 27
 ```
 
-Want 1<sup>3</sup> = 3 en 2<sup>3</sup> = 8 en 3<sup>3</sup> = 27 maar 4<sup>3</sup> = 64.
+Want 1<sup>3</sup> = 1 en 2<sup>3</sup> = 8 en 3<sup>3</sup> = 27 maar 4<sup>3</sup> = 64.
  
 
 Invoer 
